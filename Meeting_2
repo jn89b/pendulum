@@ -1,0 +1,45 @@
+##Project 
+
+
+## Header Files and Implementation Files 
+Why is it used? 
+-CPP WAY
+-Reduce Compiling Time --> 
+FLOAT = less memory 6.61566 
+DOUBLE = more memory 6.6156575 
+float double string pointer 
+-Linking!! 
+
+
+Two files:
+-.h file-> Header file -> Defines variable -what is it
+#ifndef UNIQUE_PENDULUM_H
+#define UNIQUE_PENDULUM_H
+{
+
+}
+#endif
+
+-.cpp implentation file -> Declares variable, how it is found
+defining a variable storing values some indicator
+a is something ->handwavy 
+float a -> Defined it and I've declared it 
+ext float a -> Defined variable have not allocated memory to it 
+
+declaring what it is  
+See example
+https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160
+https://www.w3schools.com/cpp/cpp_constructors.asp
+
+##Code 
+
+##Taking a step back
+-Think about what your code will do 
+-Write it down 
+-One step at a time
+-Code and use google 
+-Check if it runs 
+
+-Connect afterwards
+
+https://www.youtube.com/watch?v=azcrPFhaY9k&list=LL&index=2&t=1805s

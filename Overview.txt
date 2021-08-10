@@ -1,0 +1,24 @@
+##Light discussion about the project (5 - 10 minutes)
+https://www.youtube.com/watch?v=XWhGjxdug0o - Simulation
+
+##CPP practices and clarifications ( 5 -10 minutes)
+
+
+##OOP (Object Oriented Programming) (5 - 10 minutes)
+https://www.geeksforgeeks.org/inheritance-in-c/ - Inheritance
+
+##Headers and main cpp functions  (5 - 10 minutes)
+Issues 
+
+
+## Compiling Code 
+# Single file
+g++ -o file 1 
+#Example 
+g++ Pendulum.cpp
+./a.out
+
+#Multiple files 
+#Example 
+g++ Pendulum_test.cpp State_test.cpp printing_test.cpp 
+./a.out
